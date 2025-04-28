@@ -27,7 +27,6 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-2xl font-bold text-upa-600">UPA</span>
-            <span className="text-lg font-medium">Adolescentes</span>
           </Link>
 
           {/* Desktop menu */}
